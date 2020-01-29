@@ -1,8 +1,8 @@
-package com.central.repo;
+package com.importa.repo;
 
 import org.springframework.data.repository.CrudRepository;
 
-import com.central.bo.Log;
+import com.importa.bo.Log;
 
 import java.util.List;
 

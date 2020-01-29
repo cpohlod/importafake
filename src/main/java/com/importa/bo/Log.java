@@ -1,4 +1,4 @@
-package com.central.bo;
+package com.importa.bo;
 
 import java.sql.Date;
 

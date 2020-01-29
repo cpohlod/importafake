@@ -1,4 +1,4 @@
-package com.central;
+package com.importa;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -7,8 +7,8 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-import com.central.bo.Log;
-import com.central.repo.LogRepository;
+import com.importa.bo.Log;
+import com.importa.repo.LogRepository;
 
 @SpringBootApplication
 public class StartApplication implements CommandLineRunner {
